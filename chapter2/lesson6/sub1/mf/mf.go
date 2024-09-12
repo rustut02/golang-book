@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"main/chapter2/lesson6/lengthconv"
+	"main/chapter2/lesson6/sub1/lengthconv"
 	"os"
 	"strconv"
 )
